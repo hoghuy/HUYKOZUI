@@ -1,0 +1,6 @@
+Config = {
+    namescript = "HUYKOZUI hub",--Tên Script
+    logoscript = "91619722627291",--ID Logo Script
+    tacgia = "HUYKOZUI"-- Tên Tác Giả
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/BananaHub.lua"))() 
