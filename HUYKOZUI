@@ -1,7 +1,7 @@
 Config = {
     namescript = "HUYKOZUI hub",--Tên Script
     logoscript = "91619722627291",--ID Logo Script
-    tacgia = "HUYKOZUI"-- Tên Tác Giả
+    tacgia = "HUYKOZUI hub"-- Tên Tác Giả
 }
 repeat wait() until game:IsLoaded() and game.Players.LocalPlayer 
 getgenv().Key = "Input Key" 
