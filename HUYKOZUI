@@ -5,4 +5,4 @@ Config = {
 }
 repeat wait() until game:IsLoaded() and game.Players.LocalPlayer 
 getgenv().Key = "Input Key" 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/BananaHub.lua"))() 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hoghuy/HUYKOZUI/refs/heads/main/HUYKOZUIHUB.lua"))()
